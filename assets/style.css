@@ -1,0 +1,38 @@
+.jumbotron {
+    
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("./images/code2.jpg");
+    background-size: cover;
+    height: 300px;
+    opacity: 25%;
+
+    font-weight: bold;
+    color: aliceblue;
+  }
+
+  body{
+      background-image: url("./images/code2.jpg");
+  }
+
+  .footfont {
+      color: white;
+      padding: 20px;
+  }
+
+  .standardfont {
+    color: white;
+  }
+
+  .contactimg {
+      width: 850px;
+      height: 275px;
+  }
+
+  .card-img-bottom {
+    color: #fff;
+    height: 20rem;
+    background: url(./images/contact.jpg) center no-repeat;
+    background-size: cover;
+  }
+  .contact-card {
+      padding: 10px;
+  }
